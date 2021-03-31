@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gorgunn practising Web developer
+### Hi there 👋 I'm Gorgunn
  - 🌱 I’m currently learning flutter
  - 🤔 I’m looking for help with everyproblem XD
  - ⚡ Fun fact: I am a Larva
